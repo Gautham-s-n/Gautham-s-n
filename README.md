@@ -44,9 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gautham-s-n/Gautham-s-n/output/snake.svg" alt="Snake animation" />
 
 ###
 
