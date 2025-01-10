@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Gautham S Nambiar, a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning</h2>
+<h2 align="left" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋! I'm Gautham S Nambiar</h2>
+
+<p style="font-family: 'Arial', sans-serif; color: #333333; font-size: 18px;">I'm a final-year <strong>B.Tech</strong> student specializing in <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>. 🚀</p>
+
+<p style="font-family: 'Arial', sans-serif; color: #333333; font-size: 18px;">I’m passionate about turning <span style="font-weight: bold; color: #4CAF50;">data</span> into <span style="font-weight: bold; color: #4CAF50;">insights</span>, building <span style="font-weight: bold; color: #4CAF50;">intelligent systems</span>, and pushing the boundaries of what <span style="color: #4CAF50;">AI</span> can do!</p>
+
+<p style="font-family: 'Arial', sans-serif; color: #333333; font-size: 18px;">When I’m not experimenting with algorithms or optimizing models, you’ll find me exploring new technologies, solving real-world problems, and continuously learning to stay ahead in this exciting field. 💡</p>
+
+<p style="font-family: 'Arial', sans-serif; color: #333333; font-size: 18px;">Welcome to my GitHub! Here, I share my journey in <strong>AI/ML</strong> through the projects, research, and code I create along the way. 🌟</p>
 
 ###
 
